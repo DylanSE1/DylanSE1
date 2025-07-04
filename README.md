@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me: dylan.t.stock@gmail.com
-- ⚡ Fun fact: I am currently an Intern at The Applied Research Laboratory at Penn State.
+- ⚡ Fun fact: I am currently an intern at Penn State.
 
 <!---
 DylanSE1/DylanSE1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
